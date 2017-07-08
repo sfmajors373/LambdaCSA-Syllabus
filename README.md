@@ -53,29 +53,34 @@
 - Project Outcomes
     - ES6
       - arrow functions
-      - const & let + block scope
+      - `const` & `let` + block scope
       - template literals
       - default parameters
-    - Understand linting and how to write clean code
-    - if
+    - Understand linting and the AirBnB linter
+    - `if` statements
       - logical operators
-        - &&
-        - ||
-        - !
+        - `&&`
+        - `||`
+        - `!`
       - boolean values
-    - for
+    - `for` loops
     - arrays
-      - push & pop
-      - length
-      - shift & unshift
-      - slice & splice
-      - iteration over an array using a for loop
-      - forEach
+      - `.push` & `.pop`
+      - `.length`
+      - `.shift` & `.unshift`
+      - `.slice` & `.splice`
+      - iteration over an array using a `for` loop
+      - `.forEach`
+    - objects
+      - key value pairs
+      - dot notation
+      - bracket notation
+      - iteration with `Object.keys()`
     - functions
       - parameters and arguments
       - scope
       - anonymous functions
-      - return
+      - `return`
 
 - Project:
   - [Basic JavaScript](https://github.com/SunJieMing/Basic-JavaScript)
@@ -90,7 +95,7 @@
     - classes
       - inheritance
     - this
-      - call, apply, bind
+      - `.call`, `.apply`, `.bind`
 
 - Project:
   - [Advanced JavaScript](https://github.com/SunJieMing/Advanced-JavaScript)
