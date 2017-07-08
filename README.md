@@ -96,7 +96,6 @@
       - inheritance
     - this
       - `.call`, `.apply`, `.bind`
-
 - Project:
   - [Advanced JavaScript](https://github.com/SunJieMing/Advanced-JavaScript)
 
