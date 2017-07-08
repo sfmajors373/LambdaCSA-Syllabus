@@ -106,7 +106,7 @@
 
 ## <a name="week1"></a> Week 1
 #### <a name="project11"></a>Project 1 - Orientation & Basic JavaScript Review
-- Project Outcomes
+- Outcomes
     - ES6
       - arrow functions
       - `const` & `let` + block scope
@@ -147,7 +147,7 @@
   - [Basic JavaScript](https://github.com/SunJieMing/Basic-JavaScript)
 
 #### <a name="project12"></a> Project 2 - Advanced JavaScript
-- Project Outcomes
+- Outcomes
   - Understand advanced JavaScript and programming topics
     - higher order functions
       - closure
