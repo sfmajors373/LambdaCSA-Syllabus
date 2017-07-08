@@ -1,12 +1,12 @@
 # Lambda School Computer Science Academy Syllabus
 
 - [Week 1](#week1)
-  - [Project 1](#project11)
-  - [Project 2](#project12)
+  - [Basic JavaScript](#project11)
+  - [Advanced JavaScript](#project12)
 
 - [Week 2](#week2)
-  - [Project 1](#project21)
-  - [Project 2](#project22)
+  - [Data Structures I](#project21)
+  - [Data Structures II](#project22)
 
 - [Week 3](#week3)
   - [Project 1](#project31)
